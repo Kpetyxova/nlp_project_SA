@@ -4,6 +4,8 @@
 
 ### Материалы
 
+#### [Отчёт](https://docs.google.com/document/d/1tb1FYYGuMVft6HBTjNvSqmKTybhI1F7eROIzvrS56g0/edit#)
+
 #### Тетрадки
 
 `nlp_project_SA.ipynb` - основной код, в котором применяем CRF;
