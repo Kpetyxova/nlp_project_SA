@@ -14,7 +14,7 @@
 
 `BERT_experiments.ipynb` - эксперименты с предобученной моделью [RuBERT for Sentiment Analysis](https://huggingface.co/blanchefort/rubert-base-cased-sentiment) для оценки тональности;
 
-`NIKA.ipynb` - эксперименты с синтаксисом.
+`Experiment_synt_groups.ipynb` - эксперименты с синтаксисом.
 
 #### Файлы `.txt`
 `train_reviews.txt` - изначальный корпус отзывов;
